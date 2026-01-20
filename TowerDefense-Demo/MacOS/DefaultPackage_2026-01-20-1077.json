@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-01-18-1285",
-    "PackageNote": "1/18/2026 9:25:57 PM",
+    "PackageVersion": "2026-01-20-1077",
+    "PackageNote": "1/20/2026 5:57:15 PM",
     "AssetList": [
         {
             "Address": "AssaultCannon",
@@ -2355,9 +2355,11 @@
             "BundleID": 31,
             "DependBundleIDs": [
                 8,
+                23,
                 25,
                 27,
                 29,
+                35,
                 52,
                 53,
                 66,
@@ -3029,10 +3031,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "UnityCRC": 2716066892,
-            "FileHash": "e362c84a5e564947da0520cf9f85977d",
-            "FileCRC": 598795082,
-            "FileSize": 2147674,
+            "UnityCRC": 1041062951,
+            "FileHash": "910039476d2470dad636b7411df9ac57",
+            "FileCRC": 1964097683,
+            "FileSize": 2149167,
             "Encrypted": false,
             "Tags": [
                 "Base"
@@ -3167,16 +3169,17 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_scenes_level1.bundle",
-            "UnityCRC": 3418422952,
-            "FileHash": "6d845bde59076b93d8c5aa4d02e1ad66",
-            "FileCRC": 3177406710,
-            "FileSize": 2204353,
+            "UnityCRC": 3144876143,
+            "FileHash": "9f57ec1b4961cb7dcf3b0e9c55cb2596",
+            "FileCRC": 253155341,
+            "FileSize": 2216254,
             "Encrypted": false,
             "Tags": [
                 "Base"
             ],
             "DependBundleIDs": [
                 8,
+                23,
                 25,
                 27,
                 29,
@@ -3251,10 +3254,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_ui_uiforms.bundle",
-            "UnityCRC": 1180471051,
-            "FileHash": "cda02d1723849ea588554470269420e4",
-            "FileCRC": 1801024547,
-            "FileSize": 32507,
+            "UnityCRC": 2263154572,
+            "FileHash": "fd47c4f26b1466edead9c57f8476c376",
+            "FileCRC": 2359693606,
+            "FileSize": 33831,
             "Encrypted": false,
             "Tags": [
                 "Base"
@@ -3765,10 +3768,10 @@
         },
         {
             "BundleName": "defaultpackage_unityshaders.bundle",
-            "UnityCRC": 3863813334,
-            "FileHash": "467686d90be8ac3db30644f8851190a6",
-            "FileCRC": 2385560291,
-            "FileSize": 673440,
+            "UnityCRC": 3014432039,
+            "FileHash": "425b285022066037afd60d4f923a8f61",
+            "FileCRC": 2810826987,
+            "FileSize": 676992,
             "Encrypted": false,
             "Tags": [
                 "Base",

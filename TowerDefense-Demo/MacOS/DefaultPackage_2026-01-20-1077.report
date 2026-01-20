@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.18",
         "UnityVersion": "6000.3.4f1",
-        "BuildDate": "1/18/2026 9:06:57 PM",
-        "BuildSeconds": 20,
+        "BuildDate": "1/20/2026 5:57:34 PM",
+        "BuildSeconds": 16,
         "BuildTarget": 2,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2026-01-18-1264",
-        "BuildPackageNote": "1/18/2026 9:06:35 PM",
+        "BuildPackageVersion": "2026-01-20-1077",
+        "BuildPackageNote": "1/20/2026 5:57:15 PM",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "SupportExtensionless": true,
@@ -37,7 +37,7 @@
         "AssetFileTotalCount": 563,
         "MainAssetTotalCount": 211,
         "AllBundleTotalCount": 71,
-        "AllBundleTotalSize": 195878771,
+        "AllBundleTotalSize": 195897235,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -3413,7 +3413,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2147480,
+            "MainBundleSize": 2149167,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3425,7 +3425,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2147480,
+            "MainBundleSize": 2149167,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3437,7 +3437,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2147480,
+            "MainBundleSize": 2149167,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3449,7 +3449,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2147480,
+            "MainBundleSize": 2149167,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3461,7 +3461,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2147480,
+            "MainBundleSize": 2149167,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3473,7 +3473,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2147480,
+            "MainBundleSize": 2149167,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3485,7 +3485,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2147480,
+            "MainBundleSize": 2149167,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3497,7 +3497,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2147480,
+            "MainBundleSize": 2149167,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3509,7 +3509,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2147480,
+            "MainBundleSize": 2149167,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -5362,7 +5362,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_scenes_level1.bundle",
-            "MainBundleSize": 2204353,
+            "MainBundleSize": 2216254,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/AssetRaw/Actor/Item/PlacementTile.prefab",
@@ -5371,6 +5371,14 @@
                 {
                     "AssetPath": "Assets/AssetRaw/Actor/Item/SinglePlacementTile.prefab",
                     "AssetGUID": "faa270e3d0214c242bcbde40d8acb7a9"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/Fonts/Roboto/Roboto-Black.ttf",
+                    "AssetGUID": "76b06e5e3ffcb7f4ca1191e216fec8ad"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/Fonts/Roboto/Roboto-Regular.ttf",
+                    "AssetGUID": "c315c3a16f2b85b488a7920dcc799077"
                 },
                 {
                     "AssetPath": "Assets/AssetRaw/Res/Models/Levels/Enviro_Level_1.fbx",
@@ -5533,6 +5541,46 @@
                     "AssetGUID": "e39ee47c28da7fe45853e3ea56e43107"
                 },
                 {
+                    "AssetPath": "Assets/AssetRaw/UI/UIForms/UILevelMainInfoForm.prefab",
+                    "AssetGUID": "f4a1b9dd197e70840a959476d5cd1e29"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/UI/box_white_bottomleft.png",
+                    "AssetGUID": "a0c0b78d3cfda4eb6acd5752a0eda707"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/UI/box_white_bottomright.png",
+                    "AssetGUID": "0d476ca4e633b4f8d9a46f3b25579fa8"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/UI/box_white_topright.png",
+                    "AssetGUID": "a4c612832912c4f7babb09fb717bb527"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/UI/box_white_whole.png",
+                    "AssetGUID": "e3de1acb1ed3a4656bb68c4db2123bab"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/UI/icon_arrow_white.png",
+                    "AssetGUID": "0409152adf7314e2195e11ac9ea2d7cc"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/UI/icon_energy.png",
+                    "AssetGUID": "3568b996ada474c18bb75841d1116d7e"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/UI/icon_energy_small_white.png",
+                    "AssetGUID": "10f6c8d03930b4a449f543633892e711"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/UI/icon_health.png",
+                    "AssetGUID": "5b9fbf6723e204fb3b3694feab6a2cf3"
+                },
+                {
+                    "AssetPath": "Assets/AssetRaw/UIRaw/UI/icon_pause.png",
+                    "AssetGUID": "cf9a13f1c5163457eaad64d224ce1df6"
+                },
+                {
                     "AssetPath": "Assets/AssetRaw/UIRaw/UI/PlacementTile.png",
                     "AssetGUID": "b5794b1d89e5b4b5baf713e7eeab9c3f"
                 },
@@ -5551,9 +5599,11 @@
             ],
             "DependBundles": [
                 "defaultpackage_assets_assetraw_actor_item.bundle",
+                "defaultpackage_assets_assetraw_fonts_roboto.bundle",
                 "defaultpackage_assets_assetraw_res_models_materials_levels.bundle",
                 "defaultpackage_assets_assetraw_res_models_materials_player.bundle",
                 "defaultpackage_assets_assetraw_res_models_materials_ui.bundle",
+                "defaultpackage_assets_assetraw_ui_uiforms.bundle",
                 "defaultpackage_share_assets_assetraw_res_models_levels.bundle",
                 "defaultpackage_share_assets_assetraw_res_models_player.bundle",
                 "defaultpackage_share_assets_assetraw_res_scenes_levels_level1.bundle",
@@ -5898,7 +5948,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_ui_uiforms.bundle",
-            "MainBundleSize": 32507,
+            "MainBundleSize": 33831,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/AssetRaw/Fonts/Roboto/Roboto-Regular.ttf",
@@ -5923,7 +5973,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_ui_uiforms.bundle",
-            "MainBundleSize": 32507,
+            "MainBundleSize": 33831,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/AssetRaw/Fonts/Roboto/Roboto-Black.ttf",
@@ -5968,8 +6018,12 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_ui_uiforms.bundle",
-            "MainBundleSize": 32507,
+            "MainBundleSize": 33831,
             "DependAssets": [
+                {
+                    "AssetPath": "Assets/AssetRaw/Fonts/Roboto/Roboto-Black.ttf",
+                    "AssetGUID": "76b06e5e3ffcb7f4ca1191e216fec8ad"
+                },
                 {
                     "AssetPath": "Assets/AssetRaw/Fonts/Roboto/Roboto-Regular.ttf",
                     "AssetGUID": "c315c3a16f2b85b488a7920dcc799077"
@@ -6025,7 +6079,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_ui_uiforms.bundle",
-            "MainBundleSize": 32507,
+            "MainBundleSize": 33831,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/AssetRaw/UIRaw/UI/box_white_whole.png",
@@ -6053,7 +6107,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_ui_uiforms.bundle",
-            "MainBundleSize": 32507,
+            "MainBundleSize": 33831,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/AssetRaw/Fonts/Roboto/Roboto-Black.ttf",
@@ -6098,7 +6152,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_ui_uiforms.bundle",
-            "MainBundleSize": 32507,
+            "MainBundleSize": 33831,
             "DependAssets": [],
             "DependBundles": [
                 "defaultpackage_unityshaders.bundle"
@@ -6112,7 +6166,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_ui_uiforms.bundle",
-            "MainBundleSize": 32507,
+            "MainBundleSize": 33831,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/AssetRaw/Fonts/Roboto/Roboto-Regular.ttf",
@@ -6153,7 +6207,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_ui_uiforms.bundle",
-            "MainBundleSize": 32507,
+            "MainBundleSize": 33831,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/AssetRaw/Fonts/Roboto/Roboto-Black.ttf",
@@ -6202,7 +6256,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_ui_uiforms.bundle",
-            "MainBundleSize": 32507,
+            "MainBundleSize": 33831,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/AssetRaw/Fonts/Roboto/Roboto-Black.ttf",
@@ -6251,7 +6305,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_ui_uiforms.bundle",
-            "MainBundleSize": 32507,
+            "MainBundleSize": 33831,
             "DependAssets": [
                 {
                     "AssetPath": "Assets/AssetRaw/Fonts/Roboto/Roboto-Black.ttf",
@@ -6280,7 +6334,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_ui_uiforms.bundle",
-            "MainBundleSize": 32507,
+            "MainBundleSize": 33831,
             "DependAssets": [],
             "DependBundles": [
                 "defaultpackage_unityshaders.bundle"
@@ -7296,10 +7350,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "FileName": "4a88de009c8972cd2169ed1b04494c5c.bundle",
-            "FileHash": "4a88de009c8972cd2169ed1b04494c5c",
-            "FileCRC": 758295357,
-            "FileSize": 2147480,
+            "FileName": "910039476d2470dad636b7411df9ac57.bundle",
+            "FileHash": "910039476d2470dad636b7411df9ac57",
+            "FileCRC": 1964097683,
+            "FileSize": 2149167,
             "Encrypted": false,
             "Tags": [
                 "Base"
@@ -7357,6 +7411,7 @@
             ],
             "DependBundles": [],
             "ReferenceBundles": [
+                "defaultpackage_assets_assetraw_scenes_level1.bundle",
                 "defaultpackage_assets_assetraw_ui_dynamic.bundle",
                 "defaultpackage_assets_assetraw_ui_uiforms.bundle"
             ],
@@ -7763,16 +7818,17 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_scenes_level1.bundle",
-            "FileName": "6d845bde59076b93d8c5aa4d02e1ad66.bundle",
-            "FileHash": "6d845bde59076b93d8c5aa4d02e1ad66",
-            "FileCRC": 3177406710,
-            "FileSize": 2204353,
+            "FileName": "9f57ec1b4961cb7dcf3b0e9c55cb2596.bundle",
+            "FileHash": "9f57ec1b4961cb7dcf3b0e9c55cb2596",
+            "FileCRC": 253155341,
+            "FileSize": 2216254,
             "Encrypted": false,
             "Tags": [
                 "Base"
             ],
             "DependBundles": [
                 "defaultpackage_assets_assetraw_actor_item.bundle",
+                "defaultpackage_assets_assetraw_fonts_roboto.bundle",
                 "defaultpackage_assets_assetraw_res_models_materials_levels.bundle",
                 "defaultpackage_assets_assetraw_res_models_materials_player.bundle",
                 "defaultpackage_assets_assetraw_res_models_materials_ui.bundle",
@@ -7879,10 +7935,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_ui_uiforms.bundle",
-            "FileName": "cda02d1723849ea588554470269420e4.bundle",
-            "FileHash": "cda02d1723849ea588554470269420e4",
-            "FileCRC": 1801024547,
-            "FileSize": 32507,
+            "FileName": "fd47c4f26b1466edead9c57f8476c376.bundle",
+            "FileHash": "fd47c4f26b1466edead9c57f8476c376",
+            "FileCRC": 2359693606,
+            "FileSize": 33831,
             "Encrypted": false,
             "Tags": [
                 "Base"
@@ -10119,10 +10175,10 @@
         },
         {
             "BundleName": "defaultpackage_unityshaders.bundle",
-            "FileName": "467686d90be8ac3db30644f8851190a6.bundle",
-            "FileHash": "467686d90be8ac3db30644f8851190a6",
-            "FileCRC": 2385560291,
-            "FileSize": 673440,
+            "FileName": "425b285022066037afd60d4f923a8f61.bundle",
+            "FileHash": "425b285022066037afd60d4f923a8f61",
+            "FileCRC": 2810826987,
+            "FileSize": 676992,
             "Encrypted": false,
             "Tags": [
                 "Base",
