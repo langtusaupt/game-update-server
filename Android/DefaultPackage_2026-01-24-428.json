@@ -1,0 +1,3782 @@
+{
+    "FileVersion": "2025.9.30",
+    "EnableAddressable": true,
+    "SupportExtensionless": true,
+    "LocationToLower": false,
+    "IncludeAssetGUID": false,
+    "ReplaceAssetPathWithAddress": false,
+    "OutputNameStyle": 0,
+    "BuildBundleType": 2,
+    "BuildPipeline": "ScriptableBuildPipeline",
+    "PackageName": "DefaultPackage",
+    "PackageVersion": "2026-01-24-428",
+    "PackageNote": "1/24/2026 7:28:42 AM",
+    "AssetList": [
+        {
+            "Address": "AssaultCannon",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/AssaultCannon/AssaultCannon.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "Address": "AssaultCannon_Level1",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/AssaultCannon/AssaultCannon_Level1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                24,
+                45,
+                60,
+                70
+            ]
+        },
+        {
+            "Address": "AssaultCannon_Level2",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/AssaultCannon/AssaultCannon_Level2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                24,
+                45,
+                60,
+                70
+            ]
+        },
+        {
+            "Address": "AssaultCannon_Level3",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/AssaultCannon/AssaultCannon_Level3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                24,
+                45,
+                60,
+                70
+            ]
+        },
+        {
+            "Address": "AssaultCannonPreview",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/AssaultCannon/AssaultCannonPreview.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                41,
+                60,
+                70
+            ]
+        },
+        {
+            "Address": "MachineGunProjectile",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/AssaultCannon/MachineGunProjectile.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 1,
+            "DependBundleIDs": [
+                26,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "BigDeathExplosionPfx",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/BigDeathExplosionPfx.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                26,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "BuildPfx",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/BuildPfx.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                26,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "BulletHit",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/BulletHit.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                26,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "EMPGenerator",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/EMPGenerator/EMPGenerator.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "Address": "EMPGenerator_Level1",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/EMPGenerator/EMPGenerator_Level1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": [
+                24,
+                42,
+                55,
+                56,
+                70
+            ]
+        },
+        {
+            "Address": "EMPGenerator_Level2",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/EMPGenerator/EMPGenerator_Level2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": [
+                24,
+                42,
+                55,
+                56,
+                70
+            ]
+        },
+        {
+            "Address": "EMPGenerator_Level3",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/EMPGenerator/EMPGenerator_Level3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": [
+                24,
+                42,
+                55,
+                56,
+                70
+            ]
+        },
+        {
+            "Address": "EMPGeneratorPreview",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/EMPGenerator/EMPGeneratorPreview.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 2,
+            "DependBundleIDs": [
+                41,
+                42,
+                55,
+                56,
+                70
+            ]
+        },
+        {
+            "Address": "Hoverboss",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/Enemies/Hoverboss.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": [
+                24,
+                26,
+                30,
+                51,
+                63,
+                64,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "Hoverbuggy",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/Enemies/Hoverbuggy.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": [
+                24,
+                26,
+                30,
+                51,
+                63,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "Hovercopter",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/Enemies/Hovercopter.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": [
+                24,
+                26,
+                30,
+                51,
+                63,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "Hovertank",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/Enemies/Hovertank.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": [
+                24,
+                26,
+                30,
+                51,
+                63,
+                64,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "SuperHoverboss",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/Enemies/SuperHoverboss.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": [
+                24,
+                26,
+                30,
+                51,
+                63,
+                64,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "SuperHoverbuggy",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/Enemies/SuperHoverbuggy.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": [
+                24,
+                26,
+                30,
+                51,
+                63,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "SuperHovercopter",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/Enemies/SuperHovercopter.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": [
+                24,
+                26,
+                30,
+                51,
+                63,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "SuperHovertank",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/Enemies/SuperHovertank.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 3,
+            "DependBundleIDs": [
+                24,
+                26,
+                30,
+                51,
+                63,
+                64,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "EnemyProjectile",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/EnemyProjectile.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                26,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "EnemyShootEffect",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/EnemyShootEffect.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                26,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "EnergyPylon",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/EnergyPylon/EnergyPylon.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "Address": "EnergyPylon_Level1",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/EnergyPylon/EnergyPylon_Level1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": [
+                24,
+                26,
+                43,
+                57,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "EnergyPylon_Level2",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/EnergyPylon/EnergyPylon_Level2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": [
+                24,
+                26,
+                43,
+                57,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "EnergyPylon_Level3",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/EnergyPylon/EnergyPylon_Level3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": [
+                24,
+                26,
+                43,
+                57,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "EnergyPylonPreview",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/EnergyPylon/EnergyPylonPreview.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 4,
+            "DependBundleIDs": [
+                41,
+                57,
+                70
+            ]
+        },
+        {
+            "Address": "EntityPlayer",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/EntityPlayer.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                26,
+                29,
+                65,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "HPBar",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/HPBar.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                29,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "LaserImpactPFX",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/LaserImpactPFX.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                26,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "MissileArray",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/MissileArray/MissileArray.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 5,
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "Address": "MissileArray_Level1",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/MissileArray/MissileArray_Level1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 5,
+            "DependBundleIDs": [
+                24,
+                47,
+                62,
+                70
+            ]
+        },
+        {
+            "Address": "MissileArrayPreview",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/MissileArray/MissileArrayPreview.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 5,
+            "DependBundleIDs": [
+                41,
+                62,
+                70
+            ]
+        },
+        {
+            "Address": "SuperTowerProjectile",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/MissileArray/SuperTowerProjectile.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 5,
+            "DependBundleIDs": [
+                26,
+                28,
+                54,
+                61,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "LaserProjectile",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/PlasmaLance/LaserProjectile.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 6,
+            "DependBundleIDs": [
+                26,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "PlasmaLance",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/PlasmaLance/PlasmaLance.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 6,
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "Address": "PlasmaLance_Level1",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/PlasmaLance/PlasmaLance_Level1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 6,
+            "DependBundleIDs": [
+                24,
+                26,
+                44,
+                58,
+                59,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "PlasmaLance_Level2",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/PlasmaLance/PlasmaLance_Level2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 6,
+            "DependBundleIDs": [
+                24,
+                26,
+                44,
+                58,
+                59,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "PlasmaLance_Level3",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/PlasmaLance/PlasmaLance_Level3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 6,
+            "DependBundleIDs": [
+                24,
+                26,
+                44,
+                58,
+                59,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "PlasmaLancePreview",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/PlasmaLance/PlasmaLancePreview.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 6,
+            "DependBundleIDs": [
+                41,
+                58,
+                59,
+                70
+            ]
+        },
+        {
+            "Address": "RadiusVisualiser",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/RadiusVisualiser.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                29,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "RocketExplosionPfx",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/RocketExplosionPfx.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                26,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "RocketPlatform",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/RocketPlatform/RocketPlatform.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "Address": "RocketPlatform_Level1",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/RocketPlatform/RocketPlatform_Level1.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": [
+                24,
+                46,
+                61,
+                70
+            ]
+        },
+        {
+            "Address": "RocketPlatform_Level2",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/RocketPlatform/RocketPlatform_Level2.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": [
+                24,
+                46,
+                61,
+                70
+            ]
+        },
+        {
+            "Address": "RocketPlatform_Level3",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/RocketPlatform/RocketPlatform_Level3.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": [
+                24,
+                46,
+                61,
+                70
+            ]
+        },
+        {
+            "Address": "RocketPlatformPreview",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/RocketPlatform/RocketPlatformPreview.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": [
+                41,
+                61,
+                70
+            ]
+        },
+        {
+            "Address": "RocketProjectile",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/RocketPlatform/RocketProjectile.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 7,
+            "DependBundleIDs": [
+                24,
+                26,
+                28,
+                54,
+                61,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "RocketTrail",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/RocketTrail.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                26,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "SlowFx",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/SlowFx.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                26,
+                51,
+                63,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "SmallDeathExplosionPfx",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/SmallDeathExplosionPfx.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                26,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "SupertowerMissileTrail",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/SupertowerMissileTrail.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                26,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "TowerDeathExplosion",
+            "AssetPath": "Assets/AssetRaw/Actor/Entity/TowerDeathExplosion.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 0,
+            "DependBundleIDs": [
+                26,
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "PlacementTile",
+            "AssetPath": "Assets/AssetRaw/Actor/Item/PlacementTile.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 8,
+            "DependBundleIDs": [
+                29,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "SinglePlacementTile",
+            "AssetPath": "Assets/AssetRaw/Actor/Item/SinglePlacementTile.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 8,
+            "DependBundleIDs": [
+                29,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "Game Music",
+            "AssetPath": "Assets/AssetRaw/Audios/Music/Game Music.mp3",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 9,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Menu Music",
+            "AssetPath": "Assets/AssetRaw/Audios/Music/Menu Music.mp3",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 9,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "base_attack",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Base Attack/base_attack.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 11,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "zone_enter",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Base Attack/zone_enter.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 11,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Enemies Exploding 1",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Enemies Exploding/Enemies Exploding 1.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Enemies Exploding 2",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Enemies Exploding/Enemies Exploding 2.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Enemies Exploding 3",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Enemies Exploding/Enemies Exploding 3.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Enemies Exploding 4",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Enemies Exploding/Enemies Exploding 4.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Enemies Exploding 5",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Enemies Exploding/Enemies Exploding 5.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 12,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Enemy Fire",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Enemy Fire.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Macross Placement",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Macross Placement.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Destruction 1",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Tower Destruction/Destruction 1.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 13,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Destruction 2",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Tower Destruction/Destruction 2.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 13,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Destruction 3",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Tower Destruction/Destruction 3.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 13,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Destruction 4",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Tower Destruction/Destruction 4.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 13,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Destruction 5",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Tower Destruction/Destruction 5.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 13,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "LaserFire",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/Laser/LaserFire.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 14,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "MG 1",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/MachineGun/MG 1.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "MG 10",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/MachineGun/MG 10.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "MG 11",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/MachineGun/MG 11.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "MG 12",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/MachineGun/MG 12.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "MG 13",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/MachineGun/MG 13.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "MG 14",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/MachineGun/MG 14.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "MG 2",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/MachineGun/MG 2.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "MG 3",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/MachineGun/MG 3.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "MG 4",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/MachineGun/MG 4.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "MG 5",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/MachineGun/MG 5.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "MG 6",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/MachineGun/MG 6.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "MG 7",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/MachineGun/MG 7.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "MG 8",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/MachineGun/MG 8.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "MG 9",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/MachineGun/MG 9.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 15,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Rocket Tower Shoot",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/RocketLauncher/Rocket Tower Shoot.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 16,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Super Tower Shot 1",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/SuperTower/Super Tower Shot 1.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 17,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Super Tower Shot 2",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/SuperTower/Super Tower Shot 2.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 17,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Super Tower Shot 3",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/SuperTower/Super Tower Shot 3.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 17,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Super Tower Shot 4",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/SuperTower/Super Tower Shot 4.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 17,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Super Tower Shot 5",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/SuperTower/Super Tower Shot 5.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 17,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Super Tower Shot 6",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/SuperTower/Super Tower Shot 6.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 17,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Super Tower Shot 7",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Towers/SuperTower/Super Tower Shot 7.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 17,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TD Currency",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/UI/TD Currency.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 18,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TD Defeat ",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/UI/TD Defeat .wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 18,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TD EMP Idle",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/UI/TD EMP Idle.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 18,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TD Tower Sell",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/UI/TD Tower Sell.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 18,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TD Tower Upgrade",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/UI/TD Tower Upgrade.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 18,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TD Victory",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/UI/TD Victory.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 18,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Weapon Placement 1",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Weapon Placement 1.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Weapon Placement 2",
+            "AssetPath": "Assets/AssetRaw/Audios/SFX/Weapon Placement 2.wav",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 10,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "ui_sound_back",
+            "AssetPath": "Assets/AssetRaw/Audios/UI/ui_sound_back.mp3",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 19,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "ui_sound_forward",
+            "AssetPath": "Assets/AssetRaw/Audios/UI/ui_sound_forward.mp3",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 19,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "tbassetspathdata",
+            "AssetPath": "Assets/AssetRaw/Configs/bytes/tbassetspathdata.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 20,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "tbdefaultconfigdata",
+            "AssetPath": "Assets/AssetRaw/Configs/bytes/tbdefaultconfigdata.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 20,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "tbenemydata",
+            "AssetPath": "Assets/AssetRaw/Configs/bytes/tbenemydata.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 20,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "tbleveldata",
+            "AssetPath": "Assets/AssetRaw/Configs/bytes/tbleveldata.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 20,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "tbprojectiledata",
+            "AssetPath": "Assets/AssetRaw/Configs/bytes/tbprojectiledata.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 20,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "tbsceneconfig",
+            "AssetPath": "Assets/AssetRaw/Configs/bytes/tbsceneconfig.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 20,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "tbscenedata",
+            "AssetPath": "Assets/AssetRaw/Configs/bytes/tbscenedata.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 20,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "tbtowerdata",
+            "AssetPath": "Assets/AssetRaw/Configs/bytes/tbtowerdata.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 20,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "tbtowerleveldata",
+            "AssetPath": "Assets/AssetRaw/Configs/bytes/tbtowerleveldata.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 20,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "tbwavedata",
+            "AssetPath": "Assets/AssetRaw/Configs/bytes/tbwavedata.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 20,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "tbwaveelementdata",
+            "AssetPath": "Assets/AssetRaw/Configs/bytes/tbwaveelementdata.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 20,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "localizationSheets",
+            "AssetPath": "Assets/AssetRaw/Configs/Localization/localizationSheets.csv",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 21,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "GameLogic.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameLogic.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "GameProto.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/GameProto.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "mscorlib.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/mscorlib.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "System.Core.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/System.Core.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "System.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/System.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "TEngine.Runtime.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/TEngine.Runtime.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UniTask.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UniTask.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "UnityEngine.CoreModule.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/UnityEngine.CoreModule.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "YooAsset.dll",
+            "AssetPath": "Assets/AssetRaw/DLL/YooAsset.dll.bytes",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 22,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Roboto-Black",
+            "AssetPath": "Assets/AssetRaw/Fonts/Roboto/Roboto-Black.ttf",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 23,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Roboto-Regular",
+            "AssetPath": "Assets/AssetRaw/Fonts/Roboto/Roboto-Regular.ttf",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 23,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "Level3",
+            "AssetPath": "Assets/AssetRaw/OtherPackages/Level3/Level3.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Level3"
+            ],
+            "BundleID": 38,
+            "DependBundleIDs": [
+                8,
+                25,
+                27,
+                29,
+                48,
+                52,
+                53,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "Level4",
+            "AssetPath": "Assets/AssetRaw/OtherPackages/Level4/Level4.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Level4"
+            ],
+            "BundleID": 39,
+            "DependBundleIDs": [
+                8,
+                25,
+                27,
+                29,
+                49,
+                52,
+                53,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "Level5",
+            "AssetPath": "Assets/AssetRaw/OtherPackages/Level5/Level5.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Level5"
+            ],
+            "BundleID": 40,
+            "DependBundleIDs": [
+                8,
+                25,
+                27,
+                29,
+                50,
+                52,
+                53,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "Level01_Environment",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Levels/Level01_Environment.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 25,
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "Address": "Level01_Road",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Levels/Level01_Road.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 25,
+            "DependBundleIDs": [
+                52,
+                70
+            ]
+        },
+        {
+            "Address": "Level02_Environment",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Levels/Level02_Environment.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 25,
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "Address": "Level02_Road",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Levels/Level02_Road.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 25,
+            "DependBundleIDs": [
+                52,
+                70
+            ]
+        },
+        {
+            "Address": "Level03_Environment",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Levels/Level03_Environment.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 25,
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "Address": "Level03_Road",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Levels/Level03_Road.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 25,
+            "DependBundleIDs": [
+                52,
+                70
+            ]
+        },
+        {
+            "Address": "Level04_Environment",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Levels/Level04_Environment.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 25,
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "Address": "Level04_Road",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Levels/Level04_Road.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 25,
+            "DependBundleIDs": [
+                52,
+                70
+            ]
+        },
+        {
+            "Address": "Level05_Environment",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Levels/Level05_Environment.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 25,
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "Address": "Level05_Road",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Levels/Level05_Road.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 25,
+            "DependBundleIDs": [
+                52,
+                70
+            ]
+        },
+        {
+            "Address": "Skybox",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Levels/Skybox.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 25,
+            "DependBundleIDs": [
+                52,
+                70
+            ]
+        },
+        {
+            "Address": "AttackLightning",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/AttackLightning.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "BossHover_sprite",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/BossHover_sprite.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "BuggyHover_sprite",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/BuggyHover_sprite.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "BulletImpact",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/BulletImpact.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "EnergyGainGlow",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/EnergyGainGlow.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "EnergyGainLightning",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/EnergyGainLightning.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "explosion_Flame",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/explosion_Flame.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "explosion_Flame_2",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/explosion_Flame_2.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "explosion_Flame_4",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/explosion_Flame_4.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "explosion_Smoke_1",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/explosion_Smoke_1.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "explosion_Spark_1",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/explosion_Spark_1.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "explosion_Spark_2",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/explosion_Spark_2.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "explosion_Spark_3",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/explosion_Spark_3.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "Flare",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/Flare.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "Helicopter_Hover",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/Helicopter_Hover.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "LaserBeam",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/LaserBeam.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "LaserImpact",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/LaserImpact.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "LaserMuzzleFlashMaterial",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/LaserMuzzleFlashMaterial.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "SlowFx_",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/SlowFx_.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "SlowFx_sprite",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/SlowFx_sprite.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "Smoke",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/Smoke.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "TankHover_sprite",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/TankHover_sprite.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "Tracer",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Particles/Tracer.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 26,
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "Address": "HeadQuarters_tex_v001",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Player/HeadQuarters_tex_v001.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 27,
+            "DependBundleIDs": [
+                53,
+                70
+            ]
+        },
+        {
+            "Address": "Rocket_Projectile",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Projectiles/Rocket_Projectile.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 28,
+            "DependBundleIDs": [
+                61,
+                70
+            ]
+        },
+        {
+            "Address": "ShadowCaster",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/ShadowCaster.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 24,
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "Address": "HealthBarGreen",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/UI/HealthBarGreen.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 29,
+            "DependBundleIDs": [
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "HealthBarRed",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/UI/HealthBarRed.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 29,
+            "DependBundleIDs": [
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "HomeBaseTargetZone",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/UI/HomeBaseTargetZone.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 29,
+            "DependBundleIDs": [
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "PlacementArea",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/UI/PlacementArea.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 29,
+            "DependBundleIDs": [
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "PlacementAreaFillled",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/UI/PlacementAreaFillled.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 29,
+            "DependBundleIDs": [
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "RadiusVisualiser_materials",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/UI/RadiusVisualiser_materials.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 29,
+            "DependBundleIDs": [
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "SinglePlacementTile_materials",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/UI/SinglePlacementTile_materials.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 29,
+            "DependBundleIDs": [
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "SinglePlacementTileFilled",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/UI/SinglePlacementTileFilled.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 29,
+            "DependBundleIDs": [
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "Buggy_Albedo_V001",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Units/Buggy_Albedo_V001.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 30,
+            "DependBundleIDs": [
+                63,
+                70
+            ]
+        },
+        {
+            "Address": "Buggy_Orange_Albedo_V001",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Units/Buggy_Orange_Albedo_V001.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 30,
+            "DependBundleIDs": [
+                63,
+                70
+            ]
+        },
+        {
+            "Address": "Helicopter_Albedo_V001",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Units/Helicopter_Albedo_V001.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 30,
+            "DependBundleIDs": [
+                63,
+                70
+            ]
+        },
+        {
+            "Address": "Helicopter_Orange_Albedo_V001",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Units/Helicopter_Orange_Albedo_V001.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 30,
+            "DependBundleIDs": [
+                63,
+                70
+            ]
+        },
+        {
+            "Address": "TankBasic_Albedo_V001",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Units/TankBasic_Albedo_V001.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 30,
+            "DependBundleIDs": [
+                63,
+                70
+            ]
+        },
+        {
+            "Address": "TankBasic_Orange_Albedo_V001",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Units/TankBasic_Orange_Albedo_V001.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 30,
+            "DependBundleIDs": [
+                63,
+                70
+            ]
+        },
+        {
+            "Address": "TankBoss_Albedo_V001",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Units/TankBoss_Albedo_V001.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 30,
+            "DependBundleIDs": [
+                63,
+                70
+            ]
+        },
+        {
+            "Address": "TankBoss_Orange_Albedo_V001",
+            "AssetPath": "Assets/AssetRaw/Res/Models/Materials/Units/TankBoss_Orange_Albedo_V001.mat",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 30,
+            "DependBundleIDs": [
+                63,
+                70
+            ]
+        },
+        {
+            "Address": "Level1",
+            "AssetPath": "Assets/AssetRaw/Scenes/Level1/Level1.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 31,
+            "DependBundleIDs": [
+                8,
+                25,
+                27,
+                29,
+                52,
+                53,
+                66,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "Level2",
+            "AssetPath": "Assets/AssetRaw/Scenes/Level2/Level2.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 32,
+            "DependBundleIDs": [
+                8,
+                25,
+                27,
+                29,
+                52,
+                53,
+                67,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "Menu",
+            "AssetPath": "Assets/AssetRaw/Scenes/Menu/Menu.unity",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 33,
+            "DependBundleIDs": [
+                25,
+                26,
+                43,
+                44,
+                52,
+                57,
+                58,
+                59,
+                65,
+                68,
+                70
+            ]
+        },
+        {
+            "Address": "LevelSelectionButton",
+            "AssetPath": "Assets/AssetRaw/UI/Dynamic/LevelSelectionButton.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 34,
+            "DependBundleIDs": [
+                23,
+                69
+            ]
+        },
+        {
+            "Address": "TowerBuildButton",
+            "AssetPath": "Assets/AssetRaw/UI/Dynamic/TowerBuildButton.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 34,
+            "DependBundleIDs": [
+                23,
+                37,
+                69
+            ]
+        },
+        {
+            "Address": "UIDownloadForm",
+            "AssetPath": "Assets/AssetRaw/UI/UIForms/UIDownloadForm.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 35,
+            "DependBundleIDs": [
+                23,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "UIGameOverForm",
+            "AssetPath": "Assets/AssetRaw/UI/UIForms/UIGameOverForm.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 35,
+            "DependBundleIDs": [
+                23,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "UILevelMainInfoForm",
+            "AssetPath": "Assets/AssetRaw/UI/UIForms/UILevelMainInfoForm.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 35,
+            "DependBundleIDs": [
+                23,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "UILevelSelectForm",
+            "AssetPath": "Assets/AssetRaw/UI/UIForms/UILevelSelectForm.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 35,
+            "DependBundleIDs": [
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "UIMainMenuForm",
+            "AssetPath": "Assets/AssetRaw/UI/UIForms/UIMainMenuForm.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 35,
+            "DependBundleIDs": [
+                23,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "UIMask",
+            "AssetPath": "Assets/AssetRaw/UI/UIForms/UIMask.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 35,
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "Address": "UIOptionsForm",
+            "AssetPath": "Assets/AssetRaw/UI/UIForms/UIOptionsForm.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 35,
+            "DependBundleIDs": [
+                23,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "UIPausePanelForm",
+            "AssetPath": "Assets/AssetRaw/UI/UIForms/UIPausePanelForm.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 35,
+            "DependBundleIDs": [
+                23,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "UITowerControllerForm",
+            "AssetPath": "Assets/AssetRaw/UI/UIForms/UITowerControllerForm.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 35,
+            "DependBundleIDs": [
+                23,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "UITowerListForm",
+            "AssetPath": "Assets/AssetRaw/UI/UIForms/UITowerListForm.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 35,
+            "DependBundleIDs": [
+                23,
+                69,
+                70
+            ]
+        },
+        {
+            "Address": "UIUpdateResourceForm",
+            "AssetPath": "Assets/AssetRaw/UI/UIForms/UIUpdateResourceForm.prefab",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 35,
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "Address": "blue_button",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/blue_button.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 36,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "red_button",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/red_button.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 36,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "white_background",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/white_background.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 36,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "white_button",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Atlas/Common/white_button.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 36,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "build_deadly",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Raw/build_deadly.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 37,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "build_machinegun",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Raw/build_machinegun.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 37,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "build_missile",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Raw/build_missile.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 37,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "build_power",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Raw/build_power.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 37,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "build_slow",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Raw/build_slow.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 37,
+            "DependBundleIDs": []
+        },
+        {
+            "Address": "build_sniper",
+            "AssetPath": "Assets/AssetRaw/UIRaw/Raw/build_sniper.png",
+            "AssetGUID": "",
+            "AssetTags": [
+                "Base"
+            ],
+            "BundleID": 37,
+            "DependBundleIDs": []
+        }
+    ],
+    "BundleList": [
+        {
+            "BundleName": "defaultpackage_assets_assetraw_actor_entity.bundle",
+            "UnityCRC": 415275143,
+            "FileHash": "322327d30d80267cccc704afd294a36f",
+            "FileCRC": 1817205511,
+            "FileSize": 66969,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                26,
+                29,
+                51,
+                63,
+                64,
+                65,
+                69,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_actor_entity_assaultcannon.bundle",
+            "UnityCRC": 279963754,
+            "FileHash": "4f518acaf4a728c7686d1422ea59d314",
+            "FileCRC": 4199550096,
+            "FileSize": 38014,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                24,
+                26,
+                41,
+                45,
+                60,
+                65,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_actor_entity_empgenerator.bundle",
+            "UnityCRC": 1006706035,
+            "FileHash": "923be59fd6e2f301248ea5557399a5c5",
+            "FileCRC": 2237174285,
+            "FileSize": 8295,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                24,
+                41,
+                42,
+                55,
+                56,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_actor_entity_enemies.bundle",
+            "UnityCRC": 2759603563,
+            "FileHash": "50acd7bb223f3b3256f388803eb375c4",
+            "FileCRC": 188823138,
+            "FileSize": 17971,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                24,
+                26,
+                30,
+                51,
+                63,
+                64,
+                65,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_actor_entity_energypylon.bundle",
+            "UnityCRC": 2275232938,
+            "FileHash": "a02fcf36d5fabd8532f37e2bb3c3f588",
+            "FileCRC": 3505167656,
+            "FileSize": 35584,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                24,
+                26,
+                41,
+                43,
+                57,
+                65,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_actor_entity_missilearray.bundle",
+            "UnityCRC": 1233810395,
+            "FileHash": "3682d0c687a451d8e23da4e3c82d57b1",
+            "FileCRC": 1407690431,
+            "FileSize": 37520,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                24,
+                26,
+                28,
+                41,
+                47,
+                54,
+                61,
+                62,
+                65,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_actor_entity_plasmalance.bundle",
+            "UnityCRC": 2810109095,
+            "FileHash": "abd63cb59fa0e48fb8df1a552f50623f",
+            "FileCRC": 965386938,
+            "FileSize": 43265,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                24,
+                26,
+                41,
+                44,
+                58,
+                59,
+                65,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_actor_entity_rocketplatform.bundle",
+            "UnityCRC": 491170329,
+            "FileHash": "2b31ca82589460ede384bb8cae98efeb",
+            "FileCRC": 7036529,
+            "FileSize": 37556,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                24,
+                26,
+                28,
+                41,
+                46,
+                54,
+                61,
+                65,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_actor_item.bundle",
+            "UnityCRC": 2557145186,
+            "FileHash": "7bd261c319cc4a6598b97503ec0c4b2f",
+            "FileCRC": 2795921161,
+            "FileSize": 4116,
+            "Encrypted": false,
+            "Tags": [
+                "Base",
+                "Level3",
+                "Level4",
+                "Level5"
+            ],
+            "DependBundleIDs": [
+                29,
+                69,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_audios_music.bundle",
+            "UnityCRC": 1429673954,
+            "FileHash": "fa96791ee7a0cfe10075d554c85e6571",
+            "FileCRC": 339277871,
+            "FileSize": 10465075,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_audios_sfx.bundle",
+            "UnityCRC": 1948651618,
+            "FileHash": "3d6230e58c0dfcb638d1fa5f3aca4df9",
+            "FileCRC": 1624557434,
+            "FileSize": 51136,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_audios_sfx_base_attack.bundle",
+            "UnityCRC": 405965,
+            "FileHash": "bf093d5cc1376b1156cc8e9150073970",
+            "FileCRC": 451487053,
+            "FileSize": 42512,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_audios_sfx_enemies_exploding.bundle",
+            "UnityCRC": 3142571081,
+            "FileHash": "3f7b0b7507e2e0487937c66f93ea0957",
+            "FileCRC": 2293906797,
+            "FileSize": 120555,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_audios_sfx_tower_destruction.bundle",
+            "UnityCRC": 4182546524,
+            "FileHash": "e05340563ac1bc211c524ccd5a63c2b2",
+            "FileCRC": 424992110,
+            "FileSize": 115696,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_audios_sfx_towers_laser.bundle",
+            "UnityCRC": 4211001454,
+            "FileHash": "0de343d6fac59a6b373eded41e50bf14",
+            "FileCRC": 3865118293,
+            "FileSize": 10660,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_audios_sfx_towers_machinegun.bundle",
+            "UnityCRC": 894058060,
+            "FileHash": "79f04bae98dadf63213819f2b0e5709f",
+            "FileCRC": 3212148834,
+            "FileSize": 25581,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_audios_sfx_towers_rocketlauncher.bundle",
+            "UnityCRC": 2840557145,
+            "FileHash": "a079bfb021a63cb84e2b565e436e6e95",
+            "FileCRC": 1297852547,
+            "FileSize": 13422,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_audios_sfx_towers_supertower.bundle",
+            "UnityCRC": 2055134843,
+            "FileHash": "232cc76cab2038396da241f4d220a396",
+            "FileCRC": 4275378667,
+            "FileSize": 44081,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_audios_sfx_ui.bundle",
+            "UnityCRC": 1790488130,
+            "FileHash": "e846511c0703f350d8aeb0ae0a7851da",
+            "FileCRC": 3326350223,
+            "FileSize": 515353,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_audios_ui.bundle",
+            "UnityCRC": 3318159693,
+            "FileHash": "ab91f5988f7fe411c7543ac298874996",
+            "FileCRC": 1400995602,
+            "FileSize": 16586,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
+            "UnityCRC": 2314956018,
+            "FileHash": "2d60a1dd418cb467f7e8d2b354d55de7",
+            "FileCRC": 3994306021,
+            "FileSize": 9163,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_configs_localization.bundle",
+            "UnityCRC": 2982440955,
+            "FileHash": "18167b86d6cd08dc0ce4484f7e0d3d07",
+            "FileCRC": 1621778579,
+            "FileSize": 3289,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_dll.bundle",
+            "UnityCRC": 479513363,
+            "FileHash": "a892e4e887577238f808544fe430b48f",
+            "FileCRC": 1539081752,
+            "FileSize": 2139995,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_fonts_roboto.bundle",
+            "UnityCRC": 847444431,
+            "FileHash": "724b4c7995ca260e90b996894de3fced",
+            "FileCRC": 556929192,
+            "FileSize": 213967,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_res_models_materials.bundle",
+            "UnityCRC": 1912932887,
+            "FileHash": "f9e24ca32099a77b6fe2951723ee5262",
+            "FileCRC": 2862717273,
+            "FileSize": 2578,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_res_models_materials_levels.bundle",
+            "UnityCRC": 2566203729,
+            "FileHash": "e15fcb8e089efccfc2863ebedd13cef6",
+            "FileCRC": 1015622782,
+            "FileSize": 3618,
+            "Encrypted": false,
+            "Tags": [
+                "Level3",
+                "Level4",
+                "Level5",
+                "Base"
+            ],
+            "DependBundleIDs": [
+                52,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_res_models_materials_particles.bundle",
+            "UnityCRC": 1048133039,
+            "FileHash": "0d7df3794d655ac95b82264825f2d6f7",
+            "FileCRC": 4103090524,
+            "FileSize": 4671,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                65,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_res_models_materials_player.bundle",
+            "UnityCRC": 2083200361,
+            "FileHash": "7d019c21eeef24aa2553e56d7bdc51f5",
+            "FileCRC": 681151053,
+            "FileSize": 2844,
+            "Encrypted": false,
+            "Tags": [
+                "Level3",
+                "Level4",
+                "Level5",
+                "Base"
+            ],
+            "DependBundleIDs": [
+                53,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_res_models_materials_projectiles.bundle",
+            "UnityCRC": 1441556153,
+            "FileHash": "3f148d2d6a33f50a87d6b2981603eab8",
+            "FileCRC": 270026502,
+            "FileSize": 2791,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                61,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_res_models_materials_ui.bundle",
+            "UnityCRC": 1562524966,
+            "FileHash": "250c3170854114632ca0f0d727c6b16b",
+            "FileCRC": 142780642,
+            "FileSize": 3664,
+            "Encrypted": false,
+            "Tags": [
+                "Base",
+                "Level3",
+                "Level4",
+                "Level5"
+            ],
+            "DependBundleIDs": [
+                69,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_res_models_materials_units.bundle",
+            "UnityCRC": 1923274036,
+            "FileHash": "b4c80a5065ffbe5b88c3e33432cb6d4b",
+            "FileCRC": 2784607003,
+            "FileSize": 3293,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                63,
+                64,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_scenes_level1.bundle",
+            "UnityCRC": 1389891482,
+            "FileHash": "5c9b1667e9855d6643918e50f9c61a52",
+            "FileCRC": 465001661,
+            "FileSize": 2204354,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                8,
+                25,
+                27,
+                29,
+                52,
+                53,
+                66,
+                69,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_scenes_level2.bundle",
+            "UnityCRC": 2371944662,
+            "FileHash": "0ffb9a8dba37c2e34426730f69db364d",
+            "FileCRC": 4152589192,
+            "FileSize": 1398280,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                8,
+                25,
+                27,
+                29,
+                52,
+                53,
+                67,
+                69,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_scenes_menu.bundle",
+            "UnityCRC": 687294327,
+            "FileHash": "feb344159f0b534f07b1fbb5417cce6f",
+            "FileCRC": 1032698837,
+            "FileSize": 47153,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                25,
+                26,
+                43,
+                44,
+                52,
+                57,
+                58,
+                59,
+                65,
+                68,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_ui_dynamic.bundle",
+            "UnityCRC": 3840585360,
+            "FileHash": "32bb8b91ed40e54ab3a41b03a30cd884",
+            "FileCRC": 3013431404,
+            "FileSize": 9464,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                23,
+                37,
+                69
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_ui_uiforms.bundle",
+            "UnityCRC": 423114761,
+            "FileHash": "cc08680439997b607b47a20214a3d564",
+            "FileCRC": 2744436736,
+            "FileSize": 33932,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                23,
+                69,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_uiraw_atlas_common.bundle",
+            "UnityCRC": 670565388,
+            "FileHash": "a9bf056786e2c47ca273d8e9fc2a8e47",
+            "FileCRC": 3261210285,
+            "FileSize": 17645,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_assets_assetraw_uiraw_raw.bundle",
+            "UnityCRC": 1527439319,
+            "FileHash": "668b1e9897a24d693038a2457dbc3ca3",
+            "FileCRC": 291205791,
+            "FileSize": 48249,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_level3.bundle",
+            "UnityCRC": 35840583,
+            "FileHash": "fe567c2f6ecad14685d4587507afc41b",
+            "FileCRC": 2821848079,
+            "FileSize": 2278941,
+            "Encrypted": false,
+            "Tags": [
+                "Level3"
+            ],
+            "DependBundleIDs": [
+                8,
+                25,
+                27,
+                29,
+                48,
+                52,
+                53,
+                69,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_level4.bundle",
+            "UnityCRC": 3472294482,
+            "FileHash": "72e9c5366531051958f17844c3d2fc00",
+            "FileCRC": 2221475925,
+            "FileSize": 2923652,
+            "Encrypted": false,
+            "Tags": [
+                "Level4"
+            ],
+            "DependBundleIDs": [
+                8,
+                25,
+                27,
+                29,
+                49,
+                52,
+                53,
+                69,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_level5.bundle",
+            "UnityCRC": 4005162963,
+            "FileHash": "6ec40a5d90a0103d25f33e084c5f36a1",
+            "FileCRC": 3837556330,
+            "FileSize": 2524601,
+            "Encrypted": false,
+            "Tags": [
+                "Level5"
+            ],
+            "DependBundleIDs": [
+                8,
+                25,
+                27,
+                29,
+                50,
+                52,
+                53,
+                69,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_materials_towers.bundle",
+            "UnityCRC": 102556324,
+            "FileHash": "11cd98d017b7a6d64101b28e45aeeabf",
+            "FileCRC": 1130391629,
+            "FileSize": 2739,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_materials_towers_emptower.bundle",
+            "UnityCRC": 550501983,
+            "FileHash": "cd246b4a25b637499c9675f225f70d21",
+            "FileCRC": 3235530356,
+            "FileSize": 2910,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                55,
+                56,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_materials_towers_energypylon.bundle",
+            "UnityCRC": 1971875212,
+            "FileHash": "ba3a91e1e58837522df065d4546c66fa",
+            "FileCRC": 781100775,
+            "FileSize": 2926,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                57,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_materials_towers_laser.bundle",
+            "UnityCRC": 2443483483,
+            "FileHash": "5b9b0790a4d7b5ecf242d22e38aa78b5",
+            "FileCRC": 4118496531,
+            "FileSize": 2915,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                58,
+                59,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_materials_towers_machinegun.bundle",
+            "UnityCRC": 1906784193,
+            "FileHash": "ea6f25b64d57e421b9aa3c0709cb0687",
+            "FileCRC": 1024568728,
+            "FileSize": 2893,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                60,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_materials_towers_rocket.bundle",
+            "UnityCRC": 634242299,
+            "FileHash": "9b171b890b6b2a29c70a59d8ed1341fb",
+            "FileCRC": 565359779,
+            "FileSize": 2919,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                61,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_materials_towers_supertower.bundle",
+            "UnityCRC": 1475485005,
+            "FileHash": "431096de0fe272dcc2756dddb41fd11f",
+            "FileCRC": 3738724866,
+            "FileSize": 2776,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                62,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_otherpackages_level3_level3.bundle",
+            "UnityCRC": 1537411615,
+            "FileHash": "309b192b90a0f88df0a17b625f22358f",
+            "FileCRC": 3488906319,
+            "FileSize": 9661429,
+            "Encrypted": false,
+            "Tags": [
+                "Level3"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_otherpackages_level4_level4.bundle",
+            "UnityCRC": 3506545245,
+            "FileHash": "2aeed726ae4b93345bd731303967fb4e",
+            "FileCRC": 2451203350,
+            "FileSize": 9886894,
+            "Encrypted": false,
+            "Tags": [
+                "Level4"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_otherpackages_level5_level5.bundle",
+            "UnityCRC": 1886088589,
+            "FileHash": "878aa7edac14669925d263ea47ede9b3",
+            "FileCRC": 699146078,
+            "FileSize": 9346850,
+            "Encrypted": false,
+            "Tags": [
+                "Level5"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_animations.bundle",
+            "UnityCRC": 1833931072,
+            "FileHash": "e766f07cf3a2a62fec67d04eb1ca442d",
+            "FileCRC": 1921418358,
+            "FileSize": 6425,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_models_levels.bundle",
+            "UnityCRC": 971542955,
+            "FileHash": "378e70af35a907aec6e6d9941c91ca27",
+            "FileCRC": 1551670052,
+            "FileSize": 13627365,
+            "Encrypted": false,
+            "Tags": [
+                "Level3",
+                "Level4",
+                "Level5",
+                "Base"
+            ],
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_models_player.bundle",
+            "UnityCRC": 3044244308,
+            "FileHash": "bd642b1340f58423f617c609491f1ea3",
+            "FileCRC": 2864028649,
+            "FileSize": 1312739,
+            "Encrypted": false,
+            "Tags": [
+                "Level3",
+                "Level4",
+                "Level5",
+                "Base"
+            ],
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_models_projectiles.bundle",
+            "UnityCRC": 2839249806,
+            "FileHash": "4864eb8cbf3c33051a2ceda09b538441",
+            "FileCRC": 84045132,
+            "FileSize": 8110,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_models_towers_emptower.bundle",
+            "UnityCRC": 2844612097,
+            "FileHash": "466067b9473b897e1b05dab488f554d5",
+            "FileCRC": 309244818,
+            "FileSize": 5831557,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                56,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_models_towers_emptower_materials.bundle",
+            "UnityCRC": 827529362,
+            "FileHash": "46b488ba10d8a715a1b93075c731b2d3",
+            "FileCRC": 3160658771,
+            "FileSize": 2803,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_models_towers_energypylon.bundle",
+            "UnityCRC": 224163184,
+            "FileHash": "03119e2e543a086673ecb464d436d0de",
+            "FileCRC": 1483614142,
+            "FileSize": 4156318,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_models_towers_laser.bundle",
+            "UnityCRC": 3154161604,
+            "FileHash": "6066ad857df1a90c8ae0898fb7f268ef",
+            "FileCRC": 2507955957,
+            "FileSize": 4967614,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                59,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_models_towers_laser_materials.bundle",
+            "UnityCRC": 617868354,
+            "FileHash": "53b7b26796f93c0bbb312e2ad9a4d8f4",
+            "FileCRC": 3839212920,
+            "FileSize": 2833,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_models_towers_machinegun.bundle",
+            "UnityCRC": 1449814361,
+            "FileHash": "72c93534acb67f2b86b8ee17c30e9352",
+            "FileCRC": 158616295,
+            "FileSize": 3739477,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_models_towers_rocket.bundle",
+            "UnityCRC": 3755007923,
+            "FileHash": "aa02b65f776c1f56c2dc23b8b6970b06",
+            "FileCRC": 2745187013,
+            "FileSize": 3401825,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_models_towers_supertower.bundle",
+            "UnityCRC": 554106888,
+            "FileHash": "6d66cecd94ffaff867ea415da7c2ead6",
+            "FileCRC": 1496152461,
+            "FileSize": 1475037,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_models_units.bundle",
+            "UnityCRC": 2152121819,
+            "FileHash": "3f05c2dc7daeda9f03f3cf7b84158b71",
+            "FileCRC": 2927276269,
+            "FileSize": 12448741,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                64,
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_models_units_materials.bundle",
+            "UnityCRC": 1970028210,
+            "FileHash": "b5b4b64939f91885fc296d335b30dff0",
+            "FileCRC": 2425888543,
+            "FileSize": 2781,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": [
+                70
+            ]
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_particles_textures.bundle",
+            "UnityCRC": 2992413223,
+            "FileHash": "96906b4027c34b346b7a21fb64a48042",
+            "FileCRC": 3928821271,
+            "FileSize": 2427296,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_scenes_levels_level1.bundle",
+            "UnityCRC": 4086759244,
+            "FileHash": "e923cd8908d383cd37671d8c077957f6",
+            "FileCRC": 2541974229,
+            "FileSize": 6227210,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_scenes_levels_level2.bundle",
+            "UnityCRC": 3200020591,
+            "FileHash": "2711c0a302dde32824b251890878b50f",
+            "FileCRC": 1337393749,
+            "FileSize": 4305394,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_res_scenes_menu_menu.bundle",
+            "UnityCRC": 3669507953,
+            "FileHash": "b76a88e8142adefef3160d93aa483936",
+            "FileCRC": 1927309570,
+            "FileSize": 33370,
+            "Encrypted": false,
+            "Tags": [
+                "Base"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_share_assets_assetraw_uiraw_ui.bundle",
+            "UnityCRC": 2047631331,
+            "FileHash": "0f2a46e45c922f2a2c76b9499b10a1e6",
+            "FileCRC": 408309561,
+            "FileSize": 228033,
+            "Encrypted": false,
+            "Tags": [
+                "Base",
+                "Level3",
+                "Level4",
+                "Level5"
+            ],
+            "DependBundleIDs": []
+        },
+        {
+            "BundleName": "defaultpackage_unityshaders.bundle",
+            "UnityCRC": 3111165339,
+            "FileHash": "5667263ca46b4117ebc4df65bc1412c5",
+            "FileCRC": 1860480428,
+            "FileSize": 995421,
+            "Encrypted": false,
+            "Tags": [
+                "Base",
+                "Level3",
+                "Level4",
+                "Level5"
+            ],
+            "DependBundleIDs": []
+        }
+    ]
+}
