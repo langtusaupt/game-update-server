@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-01-29-1188",
-    "PackageNote": "1/29/2026 7:48:25 PM",
+    "PackageVersion": "2026-01-29-1203",
+    "PackageNote": "1/29/2026 8:03:42 PM",
     "AssetList": [
         {
             "Address": "AssaultCannon",
