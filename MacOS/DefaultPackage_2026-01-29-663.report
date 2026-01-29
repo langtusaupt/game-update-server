@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.18",
         "UnityVersion": "6000.3.4f1",
-        "BuildDate": "1/29/2026 9:33:19 AM",
-        "BuildSeconds": 262,
+        "BuildDate": "1/29/2026 11:04:11 AM",
+        "BuildSeconds": 7,
         "BuildTarget": 2,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2026-01-29-568",
-        "BuildPackageNote": "1/29/2026 9:28:56 AM",
+        "BuildPackageVersion": "2026-01-29-663",
+        "BuildPackageNote": "1/29/2026 11:04:02 AM",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "SupportExtensionless": true,
@@ -37,7 +37,7 @@
         "AssetFileTotalCount": 568,
         "MainAssetTotalCount": 213,
         "AllBundleTotalCount": 72,
-        "AllBundleTotalSize": 217402010,
+        "AllBundleTotalSize": 217402097,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -3672,7 +3672,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
-            "MainBundleSize": 9167,
+            "MainBundleSize": 9166,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3684,7 +3684,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
-            "MainBundleSize": 9167,
+            "MainBundleSize": 9166,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3696,7 +3696,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
-            "MainBundleSize": 9167,
+            "MainBundleSize": 9166,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3708,7 +3708,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
-            "MainBundleSize": 9167,
+            "MainBundleSize": 9166,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3720,7 +3720,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
-            "MainBundleSize": 9167,
+            "MainBundleSize": 9166,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3732,7 +3732,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
-            "MainBundleSize": 9167,
+            "MainBundleSize": 9166,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3744,7 +3744,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
-            "MainBundleSize": 9167,
+            "MainBundleSize": 9166,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3756,7 +3756,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
-            "MainBundleSize": 9167,
+            "MainBundleSize": 9166,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3768,7 +3768,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
-            "MainBundleSize": 9167,
+            "MainBundleSize": 9166,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3780,7 +3780,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
-            "MainBundleSize": 9167,
+            "MainBundleSize": 9166,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3792,7 +3792,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
-            "MainBundleSize": 9167,
+            "MainBundleSize": 9166,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3816,7 +3816,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284262,
+            "MainBundleSize": 2284350,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3828,7 +3828,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284262,
+            "MainBundleSize": 2284350,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3840,7 +3840,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284262,
+            "MainBundleSize": 2284350,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3852,7 +3852,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284262,
+            "MainBundleSize": 2284350,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3864,7 +3864,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284262,
+            "MainBundleSize": 2284350,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3876,7 +3876,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284262,
+            "MainBundleSize": 2284350,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3888,7 +3888,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284262,
+            "MainBundleSize": 2284350,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3900,7 +3900,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284262,
+            "MainBundleSize": 2284350,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3912,7 +3912,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284262,
+            "MainBundleSize": 2284350,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -7891,10 +7891,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_configs_bytes.bundle",
-            "FileName": "2abb8dfcee48d1ef5652d73bc2cec2b9.bundle",
-            "FileHash": "2abb8dfcee48d1ef5652d73bc2cec2b9",
-            "FileCRC": 55882306,
-            "FileSize": 9167,
+            "FileName": "9bf1a1bfb2380add0150eb9805383359.bundle",
+            "FileHash": "9bf1a1bfb2380add0150eb9805383359",
+            "FileCRC": 1066246799,
+            "FileSize": 9166,
             "Encrypted": false,
             "Tags": [
                 "Base"
@@ -7969,10 +7969,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "FileName": "031b6873541da09235a3bcf277f884d7.bundle",
-            "FileHash": "031b6873541da09235a3bcf277f884d7",
-            "FileCRC": 439423105,
-            "FileSize": 2284262,
+            "FileName": "970d13e8dd80513f48e1da8f7400c0b9.bundle",
+            "FileHash": "970d13e8dd80513f48e1da8f7400c0b9",
+            "FileCRC": 373456056,
+            "FileSize": 2284350,
             "Encrypted": false,
             "Tags": [
                 "Base"
