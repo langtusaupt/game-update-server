@@ -2,14 +2,14 @@
     "Summary": {
         "YooVersion": "2.3.18",
         "UnityVersion": "6000.3.4f1",
-        "BuildDate": "1/29/2026 8:41:28 PM",
-        "BuildSeconds": 38,
+        "BuildDate": "1/30/2026 12:32:04 AM",
+        "BuildSeconds": 2362,
         "BuildTarget": 2,
         "BuildPipeline": "ScriptableBuildPipeline",
         "BuildBundleType": 2,
         "BuildPackageName": "DefaultPackage",
-        "BuildPackageVersion": "2026-01-29-1239",
-        "BuildPackageNote": "1/29/2026 8:40:49 PM",
+        "BuildPackageVersion": "2026-01-29-1369",
+        "BuildPackageNote": "1/29/2026 10:49:44 PM",
         "UniqueBundleName": true,
         "EnableAddressable": true,
         "SupportExtensionless": true,
@@ -37,7 +37,7 @@
         "AssetFileTotalCount": 568,
         "MainAssetTotalCount": 213,
         "AllBundleTotalCount": 72,
-        "AllBundleTotalSize": 190671801,
+        "AllBundleTotalSize": 190749163,
         "EncryptedBundleTotalCount": 0,
         "EncryptedBundleTotalSize": 0
     },
@@ -3816,7 +3816,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284350,
+            "MainBundleSize": 2361712,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3828,7 +3828,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284350,
+            "MainBundleSize": 2361712,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3840,7 +3840,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284350,
+            "MainBundleSize": 2361712,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3852,7 +3852,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284350,
+            "MainBundleSize": 2361712,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3864,7 +3864,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284350,
+            "MainBundleSize": 2361712,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3876,7 +3876,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284350,
+            "MainBundleSize": 2361712,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3888,7 +3888,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284350,
+            "MainBundleSize": 2361712,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3900,7 +3900,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284350,
+            "MainBundleSize": 2361712,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -3912,7 +3912,7 @@
                 "Base"
             ],
             "MainBundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "MainBundleSize": 2284350,
+            "MainBundleSize": 2361712,
             "DependAssets": [],
             "DependBundles": []
         },
@@ -7909,10 +7909,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "FileName": "970d13e8dd80513f48e1da8f7400c0b9.bundle",
-            "FileHash": "970d13e8dd80513f48e1da8f7400c0b9",
-            "FileCRC": 373456056,
-            "FileSize": 2284350,
+            "FileName": "aeb09240f3336beb40e2206bcfe428e1.bundle",
+            "FileHash": "aeb09240f3336beb40e2206bcfe428e1",
+            "FileCRC": 2834004741,
+            "FileSize": 2361712,
             "Encrypted": false,
             "Tags": [
                 "Base"

@@ -9,8 +9,8 @@
     "BuildBundleType": 2,
     "BuildPipeline": "ScriptableBuildPipeline",
     "PackageName": "DefaultPackage",
-    "PackageVersion": "2026-01-29-1239",
-    "PackageNote": "1/29/2026 8:40:49 PM",
+    "PackageVersion": "2026-01-29-1369",
+    "PackageNote": "1/29/2026 10:49:44 PM",
     "AssetList": [
         {
             "Address": "AssaultCannon",
@@ -3094,10 +3094,10 @@
         },
         {
             "BundleName": "defaultpackage_assets_assetraw_dll.bundle",
-            "UnityCRC": 1514222488,
-            "FileHash": "970d13e8dd80513f48e1da8f7400c0b9",
-            "FileCRC": 373456056,
-            "FileSize": 2284350,
+            "UnityCRC": 386470595,
+            "FileHash": "aeb09240f3336beb40e2206bcfe428e1",
+            "FileCRC": 2834004741,
+            "FileSize": 2361712,
             "Encrypted": false,
             "Tags": [
                 "Base"
