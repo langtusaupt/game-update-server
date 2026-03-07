@@ -3,6 +3,7 @@
     <type fullname="GameLogic.Attacker" preserve="all" />
     <type fullname="GameLogic.CameraControl" preserve="all" />
     <type fullname="GameLogic.CameraInput" preserve="all" />
+    <type fullname="GameLogic.CameraSettings_SO" preserve="all" />
     <type fullname="GameLogic.CommonLauncher" preserve="all" />
     <type fullname="GameLogic.DeadEffect" preserve="all" />
     <type fullname="GameLogic.EffectPointData" preserve="all" />
@@ -27,6 +28,7 @@
     <type fullname="GameLogic.GuideCameraStepAsset" preserve="all" />
     <type fullname="GameLogic.GuideDebugSettings" preserve="all" />
     <type fullname="GameLogic.GuideDialogueStepAsset" preserve="all" />
+    <type fullname="GameLogic.GuideDragAndDropStepAsset" preserve="all" />
     <type fullname="GameLogic.GuideFlowAsset" preserve="all" />
     <type fullname="GameLogic.GuideFlowMapping" preserve="all" />
     <type fullname="GameLogic.GuideHighlightGenericUIStepAsset" preserve="all" />
@@ -42,6 +44,7 @@
     <type fullname="GameLogic.SuperTowerLauncher" preserve="all" />
     <type fullname="GameLogic.Targetter" preserve="all" />
     <type fullname="GameLogic.TowerPlacementGrid" preserve="all" />
+    <type fullname="GameLogic.UI.Effects.UIEffectScale" preserve="all" />
     <type fullname="GameLogic.WeightedSound" preserve="nothing" serialized="true" />
     <type fullname="GameLogic.IntVector2" preserve="nothing" serialized="true" />
     <type fullname="GameLogic.LevelManager/LevelPathConfig" preserve="nothing" serialized="true" />
@@ -71,6 +74,17 @@
     <type fullname="UnityEngine.Splines.Spline" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Splines.Spline/MetaData" preserve="nothing" serialized="true" />
     <type fullname="UnityEngine.Splines.SplineDataDictionary`1" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
+    <type fullname="TMPro.TextMeshProUGUI" preserve="all" />
+    <type fullname="TMPro.TMP_FontAsset" preserve="all" />
+    <type fullname="TMPro.VertexGradient" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FaceInfo_Legacy" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.FontAssetCreationSettings" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.KerningTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_Character" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontFeatureTable" preserve="nothing" serialized="true" />
+    <type fullname="TMPro.TMP_FontWeightPair" preserve="nothing" serialized="true" />
   </assembly>
   <assembly fullname="UnityEngine.AIModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null">
     <type fullname="UnityEngine.AI.NavMeshAgent" preserve="all" />
@@ -173,5 +187,11 @@
     <type fullname="Unity.Mathematics.float3" preserve="nothing" serialized="true" />
     <type fullname="Unity.Mathematics.float4" preserve="nothing" serialized="true" />
     <type fullname="Unity.Mathematics.quaternion" preserve="nothing" serialized="true" />
+  </assembly>
+  <assembly fullname="UnityEngine.TextCoreFontEngineModule">
+    <type fullname="UnityEngine.TextCore.FaceInfo" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.Glyph" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphMetrics" preserve="nothing" serialized="true" />
+    <type fullname="UnityEngine.TextCore.GlyphRect" preserve="nothing" serialized="true" />
   </assembly>
 </linker>
